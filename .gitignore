@@ -1,0 +1,20 @@
+# .NET / C# ignores
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.log
+*.pdb
+*.vs/
+*.db-journal
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQLite database (optional: include if you want users to start fresh)
+Data/TemperatureLogs.db
